@@ -1,11 +1,10 @@
 # Weather App
 
-This is a simple weather app that uses the OpenWeatherMap API to fetch weather data.
+This simple weather app uses the OpenWeatherMap API to fetch weather data.
 
 ## Features:
 - Search for a city's weather.
 - Display current weather, temperature, and weather icon.
-- Optionally, a 5-day forecast.
 
 ## Setup:
 1. Clone this repository.
